@@ -1,5 +1,5 @@
 ## zhaolike-ui
-[![npm version](https://badge.fury.io/js/zhaolike-ui.png)](https://badge.fury.io/js/zhaolike-ui)
+[![npm version](https://badge.fury.io/js/zhaolike-ui.svg)](https://badge.fury.io/js/zhaolike-ui)
 
 ## QuickStart
 ```bash
